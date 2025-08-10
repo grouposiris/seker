@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Seker is a high-performance **SPI Slave IP core** designed for seamless integration into FPGA and ASIC designs.  
+**Seker** is a high-performance **SPI Slave IP core** designed for seamless integration into FPGA and ASIC designs.  
 It enables reliable communication with SPI masters, making it ideal for use as a standalone peripheral interface or as a core component in protocol bridge designs.
 
 The Seker IP core supports all standard SPI clock modes, flexible data framing, and robust error handling.  
